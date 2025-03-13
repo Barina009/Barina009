@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me bareenashafique@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm planning to study AI in italy in the future!
+- ⚡ Fun fact: I'm planning to study AI  in the future!
 
 <!---
 Barina009/Barina009 is a ✨ special ✨ repository because it's where I share my projects and interests,includiing AI and programming.
